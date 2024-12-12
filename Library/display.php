@@ -1,7 +1,7 @@
 
 <?php
 // Read the contents of the JSON file
-$dataFile = 'library_data.json';
+$dataFile = 'libary.json';
 $jsonData = file_exists($dataFile) ? json_decode(file_get_contents($dataFile), true) : [];
 
 // Check if the data exists

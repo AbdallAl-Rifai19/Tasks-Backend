@@ -1,1 +1,0 @@
-{"books":[{"title":"1984","author":"George Orwell","isAvailable":false,"checkoutDate":"2024-12-12","dueDate":"2024-12-26"},{"title":"To Kill a Mockingbird","author":"Harper Lee","isAvailable":true,"checkoutDate":null,"dueDate":null}],"users":[{"name":"Alice","borrowedBooks":["1984"]}]}
